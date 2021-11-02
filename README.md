@@ -1,5 +1,5 @@
-# This is a test repository
-
+# test-nus-20211102
+This is a test repository in our NUS DevOps class
+#this is a test repository
 ## this is a smaller text
-
-lorem ipsum test 123 hjwerhwerjwekrwerwejrhwejr lwjer 
+loren ipsum small text
